@@ -1,15 +1,5 @@
-
-### 💫 About Me  
-
-<sub>
-- 🎓 BTech IT student at **Andhra University College of Engineering**  
-- 💻 Passionate about **Full-Stack Web Development** and **Open Source**  
-- 🌱 Currently learning the **MERN Stack** and improving **DSA skills**  
-- 🧠 Contributor at **Winter of Code Social (WOCS)**  
-- 🚀 Love building projects that create a **positive social impact**  
-- 🙋‍♀️ **Pronouns:** She/Her  
-- 🌙 **Fun fact:** My favorite time to code is when the world’s asleep 🌌  
-</sub>
+# 💫 About Me:
+ ## 💫 About Me<br><br>- 🎓 BTech IT student at **Andhra University College of Engineering**  <br>- 💻 Passionate about **Full-Stack Web Development** and **Open Source**  <br>- 🌱 Currently learning the **MERN Stack** and improving **DSA skills**  <br>- 🧠 Contributor at **Winter of Code Social (WOCS)**  <br>- 🚀 Love building projects that create a **positive social impact** <br>- 🙋‍♀️**Pronouns:** She/Her <br>- 🌙 **Fun fact:** My favorite time to code is when the world’s asleep 🌌 <br> 
 
 
 ## 🌐 Socials:
